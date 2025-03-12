@@ -10,4 +10,5 @@ Currently, two official plugins are available:
 Componentes: almecena Todo Components general (No depende de una lista).
 Helpers: Almacena funciones de JavaScript de uso en general.
 Pages: Almacena las vistas independientes con contenido no reutilizable
-
+Routes: Almacena el enrutamniento de navegación entre las paginas principales.
+Services: Almacena todo lo relacionado todo lo relacionado con la base de datos o la api.
